@@ -13,7 +13,7 @@
         "extension": "mpd"
       },
       {
-        "name": "Test3",
+        "name": "DigiCAP_Test_3",
         "uri": "https://www.youtube.com/api/manifest/dash/id/bf5bb2419360daf1/source/youtube?as=fmp4_audio_clear,webm2_sd_hd_clear&sparams=ip,ipbits,expire,source,id,as&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=249B04F79E984D7F86B4D8DB48AE6FAF41C17AB3.7B9F0EC0505E1566E59B8E488E9419F253DDF413&key=ik0",
         "extension": "mpd"
       },
