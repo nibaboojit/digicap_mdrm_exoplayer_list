@@ -6,7 +6,7 @@
         "name": "Digicap_Test_phase3_001",
         "uri": "https://www.digicaps.tk/media/test/pkg/phase3_001/phase3_001.mpd",
 		"drm_scheme": "widevine",
-        "drm_license_url": "https://www.digicaps.tk/digicap/wvlms/widevine/license?userID=test_user_01&contentID=phase3_001&allowedTrackType=SD_HD&licenseCode=1"
+        "drm_license_url": "https://www.digicaps.tk/digicap/wvlms/widevine/license?userID=test_user_01&contentID=phase3_001&allowedTrackType=SD_HD&licenseCode=1",
         "extension": "mpd"
       }
     ]
